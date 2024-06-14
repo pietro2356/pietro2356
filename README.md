@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I'm Pietro</h1>
 <h3 align="center">A young guy who loves to write nasty stuff on the console</h3>
 
-- 🔭 I’m currently working on **Healthcare access management project**
+- 🔭 I’m currently working on **Emergency Room waiting time app**
 
 - 🌱 I’m currently learning **Angular in deep & Ionic**
 
